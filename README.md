@@ -4,4 +4,4 @@
 
 
 # Info
-- ENV: https://en.wikipedia.org/wiki/EVN
+- ENV: https://en.wikipedia.org/wiki/UIC_identification_marking_for_tractive_stock
